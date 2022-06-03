@@ -12,7 +12,8 @@ It is fascinating for me to learn new ways of examining the problems that has be
 - 💞️ We are looking to collaborate on both physics and engineering topics: 
 - 1. Monte-Carlo or DMRG based characterization of the two-component spin Hamiltonians with a kinetic term breaking the particle-hole symmetry (to be added here)
 - 2. Study of confined and deconfied phases of Kitaev model under a magnetic field
-- 3. 
+- 3. New ideas to use quasiclassical approach to superconductivity, i.e. 2-component order parameter detection, dynamical phase transitions - dynamical invariants etc.
+- 4.
 
 - 📫 You can reach me via email: firat.yilmaz@uni-a.de
 
